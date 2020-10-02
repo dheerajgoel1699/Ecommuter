@@ -18,12 +18,8 @@ This Road Safety App was made for Smart India Hackathon. Alerts user about nearb
 2. Shows user details about nearby hotspots.
 
 ### Screens 
-![](https://postimg.cc/Y4mY0jD3][img]https://i.postimg.cc/Y4mY0jD3/EC1.jpg[/img)
-![](https://postimg.cc/8JQW6DqV][img]https://i.postimg.cc/8JQW6DqV/EC2.jpg[/img)
-![](https://postimg.cc/Y4mY0jD3][img]https://i.postimg.cc/Y4mY0jD3/EC3.jpg[/img)
-![](https://postimg.cc/Y4mY0jD3][img]https://i.postimg.cc/Y4mY0jD3/EC4.jpg[/img)
-![](https://postimg.cc/Y4mY0jD3][img]https://i.postimg.cc/Y4mY0jD3/EC5.jpg[/img)
-![](https://postimg.cc/Y4mY0jD3][img]https://i.postimg.cc/Y4mY0jD3/EC6.jpg[/img)
+<img src="https://postimg.cc/FdySb84k][img]https://i.postimg.cc/FdySb84k/EC4.jpg" width="270" height="480">
+![](https://postimg.cc/FdySb84k][img]https://i.postimg.cc/FdySb84k/EC4.jpg)
 
 ### Building
 
