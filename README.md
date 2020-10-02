@@ -1,6 +1,7 @@
 # Ecommuter
 This Road Safety App was made for Smart India Hackathon. Alerts user about nearby hotspots and their location on Google maps, along with one tap emergency call facility.
 
+Install using apk - 
 
 # Existing Features
 
@@ -19,7 +20,7 @@ This Road Safety App was made for Smart India Hackathon. Alerts user about nearb
 
 # Building
 
-With Gradle
+With Gradle :
 
 The easiest way to build is to install Android Studio v1.+ with Gradle v2.2.1. Once installed, then you can import the project into Android Studio:
 
