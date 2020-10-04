@@ -21,8 +21,8 @@ This Road Safety App was made for Smart India Hackathon. Alerts user about nearb
 <img src="https://user-images.githubusercontent.com/49815429/94974076-1476e180-052b-11eb-9654-2d1d9ceebc03.jpeg" height="480">
 <img src="https://user-images.githubusercontent.com/49815429/94974077-1476e180-052b-11eb-9353-8ddf6b886f8c.jpeg" height="480">
 <img src="https://user-images.githubusercontent.com/49815429/94974071-117bf100-052b-11eb-95aa-a1dff594237c.jpeg" height="480">
-<img src="https://user-images.githubusercontent.com/49815429/94974074-1345b480-052b-11eb-8b33-293539c0a91e.jpeg" height="480">
 <img src="https://user-images.githubusercontent.com/49815429/94974075-13de4b00-052b-11eb-94ff-76ec58cb7eb0.jpeg" height="480">
+<img src="https://user-images.githubusercontent.com/49815429/94974074-1345b480-052b-11eb-8b33-293539c0a91e.jpeg" height="480">
 <img src="https://user-images.githubusercontent.com/49815429/94974083-18a2ff00-052b-11eb-8d95-4deef29578e0.jpeg" height="480">
 
 
